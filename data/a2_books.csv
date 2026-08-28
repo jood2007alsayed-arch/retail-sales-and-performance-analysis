@@ -1,0 +1,10 @@
+book_id,title,price,genre
+B01,The Sand Sea,45,Fiction
+B02,Desert Skies,60,Fiction
+B03,Numbers at Work,120,Nonfiction
+B04,Python for Beginners,140,Nonfiction
+B05,Little Explorers,30,Children
+B06,World Atlas,150,Reference
+B07,Poems of Najd,55,Poetry
+B08,History of Trade,95,Nonfiction
+B03,Numbers at Work (2nd ed),125,Nonfiction
